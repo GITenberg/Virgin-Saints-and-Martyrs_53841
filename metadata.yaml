@@ -5,6 +5,9 @@ contributor:
     agent_name: Anger, F.
     gutenberg_agent_id: '47568'
     url: http://www.gutenberg.org/2009/agents/47568
+covers:
+- cover_type: archival
+  image_path: 53841-h/images/cover.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53841#Virgin-Saints-and-Martyrs
 gutenberg_issued: '2016-12-30'
 gutenberg_type: Text
 identifiers:
