@@ -1,0 +1,41 @@
+_repo: Virgin-Saints-and-Martyrs_53841
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Anger, F.
+    gutenberg_agent_id: '47568'
+    url: http://www.gutenberg.org/2009/agents/47568
+creator:
+  author:
+    agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Gould, Sabine Baring
+    - Baring-Gould, Sabine
+    - Gould, S. Baring
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+description: ''
+gutenberg_issued: '2016-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian women saints'
+- !lcsh 'Martyrs'
+- !lcc 'BR'
+- GITenberg
+tableOfContents: I. Blandina the slave -- II. S. Cæcilia -- III. S. Agnes -- IV. Febronia
+  of Sibapte -- V. The daughter of Constantine -- VI The sister of S. Basil -- VII.
+  Geneviève of Paris -- VIII. The sister of S. Benedict -- IX. S. Bridget -- X. The
+  daughters of Bridget -- XI. S. Itha -- XII. S. Hilda -- XIII. S. Elfleda -- XIV.
+  S. Werburga -- XV. A prophetess -- XVI. S. Clara -- XVII. S. Theresa -- XVIII. Sister
+  Dora.
+title: Virgin Saints and Martyrs
+url: http://www.gutenberg.org/ebooks/53841
